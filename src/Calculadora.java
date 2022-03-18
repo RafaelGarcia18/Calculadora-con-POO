@@ -13,7 +13,6 @@ public class Calculadora {
         if (num1 == null || num2 == null) {
             return null;
         } else {
-            //Esto no sirve, cambialo
             return num1 - num2;
         }
     }
